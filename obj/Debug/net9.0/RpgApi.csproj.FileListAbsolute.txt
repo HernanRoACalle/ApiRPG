@@ -672,12 +672,6 @@ E:\ETEC\2DS\DS\RpgApi\obj\Debug\net9.0\scopedcss\bundle\RpgApi.styles.css
 E:\ETEC\2DS\DS\RpgApi\obj\Debug\net9.0\staticwebassets.build.json
 E:\ETEC\2DS\DS\RpgApi\obj\Debug\net9.0\staticwebassets.development.json
 E:\ETEC\2DS\DS\RpgApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-E:\ETEC\2DS\DS\RpgApi\obj\Debug\net9.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssets.props
-E:\ETEC\2DS\DS\RpgApi\obj\Debug\net9.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-E:\ETEC\2DS\DS\RpgApi\obj\Debug\net9.0\staticwebassets\msbuild.build.RpgApi.props
-E:\ETEC\2DS\DS\RpgApi\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.RpgApi.props
-E:\ETEC\2DS\DS\RpgApi\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.RpgApi.props
-E:\ETEC\2DS\DS\RpgApi\obj\Debug\net9.0\staticwebassets.pack.json
 E:\ETEC\2DS\DS\RpgApi\obj\Debug\net9.0\RpgApi.csproj.Up2Date
 E:\ETEC\2DS\DS\RpgApi\obj\Debug\net9.0\RpgApi.dll
 E:\ETEC\2DS\DS\RpgApi\obj\Debug\net9.0\refint\RpgApi.dll
@@ -856,3 +850,8 @@ D:\RpgApi\obj\Debug\net9.0\RpgApi.pdb
 D:\RpgApi\obj\Debug\net9.0\RpgApi.genruntimeconfig.cache
 D:\RpgApi\obj\Debug\net9.0\ref\RpgApi.dll
 E:\ETEC\2DS\DS\RpgApi\obj\Debug\net9.0\RpgApi.sourcelink.json
+E:\ETEC\2DS\DS\RpgApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\ETEC\2DS\DS\RpgApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\ETEC\2DS\DS\RpgApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\ETEC\2DS\DS\RpgApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\ETEC\2DS\DS\RpgApi\obj\Debug\net9.0\staticwebassets.build.json.cache

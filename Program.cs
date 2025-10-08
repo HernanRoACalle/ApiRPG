@@ -8,7 +8,10 @@ builder.Services.AddDbContext<DataContext>(options =>
     options.UseSqlServer(builder
         .Configuration.GetConnectionString("ConexaoLocal"));
 });
-
+builder.Services.AddControllers().AddNewtonsoftJson(options =>
+options.SerializerSettings.ReferenceLoopHandling =
+Newtonsoft.Json.ReferenceLoopHandling.Ignore
+);
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://akaranger.ms/aspnet/openapi
 builder.Services.AddOpenApi();
